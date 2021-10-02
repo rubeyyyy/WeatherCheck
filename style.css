@@ -1,0 +1,46 @@
+
+
+body{
+    background-color: #5b6d6b;
+}
+
+
+#city-input{
+    max-width: 400px;
+    margin: 0 auto;
+    color: #321b01;
+
+} 
+#weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+    color:#337466;
+}
+.btn{
+    background-color: #022530;
+    color: cornsilk;
+    box-shadow: 0 8px 16px 0 rgba(20, 21, 29, 0.2), 0 6px 20px 0 rgba(48, 50, 53, 0.19);
+    transition-duration: 0.4s;
+}
+.btn:hover{
+    
+        background-color: #202f33; 
+        color: rgb(249, 250, 255);
+}
+
+  
+.banner {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman", Times, serif';
+    color: #337466;
+    text-shadow: 0 0 5px #fff,
+                 0 0 10px #fff, 
+                 0 0 20px rgba(171, 252, 234, 0.63), 
+                 0 0 30px rgba(171, 252, 234, 0.63), 
+                 0 0 35px rgba(171, 252, 234, 0.63), 
+                 0 0 35px rgba(171, 252, 234, 0.63), 
+                 0 0 35px rgba(171, 252, 234, 0.63);
+}
+
